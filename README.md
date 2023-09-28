@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react,nodeJs,reactNative**
 
-- 📫 How to reach me **navshah00001@gmail.com**
+- 📫 How to reach me **navdeepshahof@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
