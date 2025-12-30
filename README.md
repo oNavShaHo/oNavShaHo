@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navdeep Shah</h1>
-<h3 align="center">A passionate NEXT JS developer from India</h3>
+<h3 align="center">A  Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on **School Management System (not pushed yet)**
 
