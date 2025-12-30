@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Navdeep Shah</h1>
 <h3 align="center">A passionate NEXT JS developer from India</h3>
 
-- 🔭 I’m currently working on **Crop Detector and movify **
+- 🔭 I’m currently working on **School Management System (not pushed yet)**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Databases**
 
-- 👯 I’m looking to collaborate on **code-user-input**
 
-- 🤝 I’m looking for help with **libraray additions**
 
 - 💬 Ask me about **next,three fiber,react,nodeJs,reactNative**
 
